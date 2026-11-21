@@ -1,3 +1,2 @@
-# Shows the Sponsor button on every bartrumb repository that has no FUNDING.yml of its own.
 github: [bartrumb]
-custom: ["https://edgefetch-shop.fourthwall.com"]
+custom: ["https://merch.edgefetch.dev"]
